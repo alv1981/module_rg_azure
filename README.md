@@ -1,0 +1,1 @@
+# module_rg_azure
