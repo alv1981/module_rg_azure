@@ -1,7 +1,6 @@
 
 
 variable "resource_group_name" {
-  default     = "test_terra_devops"
   description = "Name of the resource group."
 }
 
